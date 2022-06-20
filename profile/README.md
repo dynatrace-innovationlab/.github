@@ -1,4 +1,4 @@
-## Dynatrace OSPO
+# Dynatrace OSPO
 
 This is the official Dynatrace OSPO Playground.
 We are utilizing this Organization for testing our GitHub Integrations and Iniatives, before rolling them out to our other Organizations
