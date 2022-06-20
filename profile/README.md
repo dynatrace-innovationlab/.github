@@ -3,6 +3,13 @@
 This is the official Dynatrace OSPO Playground.
 We are utilizing this Organization for testing our GitHub Integrations and Iniatives, before rolling them out to our other Organizations
 
+Below you will find a list of our "default" community files (Code of Conduct, Contributing, etc.), there might be variations depening on our projects needs:
+
+- [Code of Conduct](https://github.com/dynatrace-innovationlab/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Contributing Guidelines](https://github.com/dynatrace-innovationlab/.github/blob/main/CONTRIBUTING.md)
+
+For questions please open an Issue or contact <opensource@dynatrace.com>
+
 <!--
 
 **Here are some ideas to get you started:**
