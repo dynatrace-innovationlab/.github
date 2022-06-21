@@ -56,3 +56,7 @@ ignore:
  - ".github/in-solidarity.yml"  # default
  - "**/*.yml"
 ```
+
+## Decision Outcome
+
+In Solidarity looks simple and sophisticated for our initial usage.
