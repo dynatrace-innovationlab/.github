@@ -14,7 +14,7 @@ Following files will be used as a fallback by all the projects within the same o
 - [Contributing Guidelines](CONTRIBUTING.md)
 - [Security Policy](SECURITY.md)
 - [ISSUE_TEMPLATES](ISSUE_TEMPLATES/) for bug reports and freature requests
-- `.github/*.yml` for bot configuration
+- `.github/*.yml` for bot configurations like [Probot](https://probot.github.io/docs/best-practices/#store-configuration-in-the-repository)
 
 The `profile/README.md` is used for the basic front text of the Organization.
 
