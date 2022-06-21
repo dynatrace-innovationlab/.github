@@ -4,6 +4,8 @@ tags:
 - Bot
 - Signing
 - Legal
+date:
+- 2022-06-21
 ---
 
 # Developer Certificate of Origin
@@ -29,6 +31,13 @@ Signing commits is easy, as it can be achieved on multiple ways:
 configuration can be stored within `.github/dco.yml`
 
 - [Configuration](https://github.com/dcoapp/app#modes-of-operations)
+
+## Additional discussions
+
+### Only for non members
+
+To reduce the pain for Dynatrace employees, we could even deactivate signing for members of the Organization.
+How do we handle this, if we generate an own community out of those (or do we handle that, as soon as we reach that status)
 
 ## Descision
 
