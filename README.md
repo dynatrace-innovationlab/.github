@@ -1,7 +1,7 @@
 # GitHub Meta Project (.github)
 
 This repository is used to manage community health files, which are relevant for all our projects.
-Furthermore we are providing our default integration configurations for bots and apps via this repository.
+Furthermore, we are providing our default integration configurations for bots and apps via this repository.
 
 Community files are:
 
