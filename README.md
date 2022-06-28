@@ -16,14 +16,14 @@ It provides a default for said community files and can be overwritten by each pr
 
 Simple it is hard for us at OSPO to check all the repositories for their community health files, but we see them as really important.
 
-Furthermore updating one of those files to a more recent version is really painful, when you have to check all the projects.
-Now we do have one point of truth for the default, if a project desides to deviate from this default, it is also the projects responsibility to take care of its community files.
+Furthermore updating one of those files to a more recent version is painful, when you have to check all the projects.
+Now we do have one point of truth for the default, if a project decides to deviate from this default, it is also the project's responsibility to take care of its community files.
 
 ## Contents
 
 ### Community Health Files
 
-Following files will be used as a fallback by all the projects within the same organization.
+The following files will be used as a fallback for all the projects within the same organization.
 
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Contributing Guidelines](CONTRIBUTING.md)
@@ -39,10 +39,10 @@ The `profile/README.md` is used for the basic front text of the Organization.
 
 We want to enable people to challenge our ideas, therefore it is important to know what has been evaluated and why.
 
-We are using <https://adr.github.io/madr/> to keep them in an easy readable format.
+We are using <https://adr.github.io/madr/> to keep them in an easily readable format.
 For further reading check <https://github.com/joelparkerhenderson/architecture-decision-record#how-to-start-using-adrs>
 
-The ADR's can be found wihtin `docs/decisions`
+The ADR's can be found within `docs/decisions`
 
 ## Automation/Tooling
 
@@ -50,4 +50,4 @@ We are currently using only `markdownlint` to verify our Markdown-files in this 
 For easier local development we also provide a `makefile` with two targets:
 
 - `markdownlint`: runs the linter
-- `markdownlint-fix`: runs the autofix option
+- `markdownlint-fix`: runs the auto fix option
