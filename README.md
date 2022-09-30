@@ -42,7 +42,7 @@ We want to enable people to challenge our ideas, therefore it is important to kn
 We are using <https://adr.github.io/madr/> to keep them in an easily readable format.
 For further reading check <https://github.com/joelparkerhenderson/architecture-decision-record#how-to-start-using-adrs>
 
-The ADR's can be found within `docs/decisions`
+The ADRs can be found within [docs/decisions within the OSPO Organization](https://github.com/dynatrace-innovationlab/.github/tree/main/docs/decisions)
 
 ## Automation/Tooling
 

@@ -1,22 +1,22 @@
-# Dynatrace OSPO
+# Dynatrace Open Source
 
-This is the official Dynatrace OSPO Playground.
-We are utilizing this Organization for testing our GitHub Integrations and Iniatives, before rolling them out to our other Organizations
+This organization contains Open Source projects maintained by Dynatrace.
+If not stated differently, these projects are not officially supported.
 
-Below you will find a list of our "default" community files (Code of Conduct, Contributing, etc.), there might be variations depening on our projects needs:
+If you do have questions regarding any project within this organization, please open a GitHub issue for said project.
 
-- [Code of Conduct](https://github.com/dynatrace-innovationlab/.github/blob/main/CODE_OF_CONDUCT.md)
-- [Contributing Guidelines](https://github.com/dynatrace-innovationlab/.github/blob/main/CONTRIBUTING.md)
+If you do have general questions about open-source at Dynatrace, feel free to contact us at <opensource@dynatrace.com>.
 
-For questions please open an Issue or contact <opensource@dynatrace.com>
+## Default License
 
-<!--
+We are using `Apache License 2.0` as our default License, see <https://www.apache.org/licenses/LICENSE-2.0>.
 
-**Here are some ideas to get you started:**
+> The Apache License 2.0 makes sure that the user does not have to worry about infringing any patents by using the software. The user is granted a license to any patent that covers the software. Through an in terrorem clause, this license is terminated if the user sues anyone over patent infringement related to this software. This condition is added in order to prevent patent litigations. - <https://en.wikipedia.org/wiki/Apache_License#Apache_License_2.0>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Important links
+
+> **Note**
+> The following links represent our GitHub Organization defaults, it might be that certain projects do have their own versions of those files.
+
+- [Code of Conduct](https://github.com/dynatrace-oss/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Security Policy](https://github.com/dynatrace-oss/.github/blob/main/SECURITY.md)
