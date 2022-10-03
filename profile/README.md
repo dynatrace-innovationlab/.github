@@ -5,8 +5,6 @@ Projects are maintained by Dynatrace but if not stated differently are not offic
 
 For more information about Dynatrace please visit [dynatrace.com](https://www.dynatrace.com/).
 
-Information regarding this organization might be found [here](./.org)
-
 ## Contact
 
 If you do have questions regarding any project within this organization, please open a GitHub issue for said project.
