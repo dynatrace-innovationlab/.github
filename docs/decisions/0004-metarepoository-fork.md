@@ -7,7 +7,7 @@ date:
 - 2022-09-30
 ---
 
-# GitHub Meta Repository Fork
+# GitHub Meta Repository Global Template (to be forked by our other orgs)
 
 We do need a `.github` repository within all our organizations to have a default for all our community files.
 
@@ -43,7 +43,9 @@ we could do something like:
 
 #### Overwrite
 
-If a team wants to overwrite settings, they should change the default branch, so that `main` is still synced and they have easily access to the changes.
+If a team wants to overwrite settings, they should change the default branch, so that `main` is still synced and they have easy access to the changes.
+
+Or they need to take care of merging and updating the Repo on their own, the features GitHub offers are great in that regard.
 
 ## Additional Remarks
 
