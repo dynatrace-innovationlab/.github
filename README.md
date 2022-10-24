@@ -1,5 +1,9 @@
 # GitHub Meta Project (.github)
 
+> **Note**
+> If you are not within the dynatrace-OSPO organization, this repository is only a fork!
+> All changes are done and maintained within the dynatrace-OSPO/.github repository, if you want to change it, or extend it, please refer to the guides.
+
 This repository is used to manage community health files, which are relevant for all our projects.
 Furthermore, we are providing our default integration configurations for bots and apps via this repository.
 
@@ -17,7 +21,18 @@ It provides a default for said community files and can be overwritten by each pr
 Simple it is hard for us at OSPO to check all the repositories for their community health files, but we see them as really important.
 
 Furthermore updating one of those files to a more recent version is painful, when you have to check all the projects.
-Now we do have one point of truth for the default, if a project decides to deviate from this default, it is also the project's responsibility to take care of its community files.
+Now we do have one point of truth for the default if a project decides to deviate from this default, it is also the project's responsibility to take care of its community files.
+
+## Customizing this repository
+
+As stated in the beginning, this repository is an auto updated fork of [dynatrace-innovationlab/.github](https://github.com/dynatrace-innovationlab/.github/).
+Therefore local changes might be overwritten, but we offer two different ways of extending project-related information.
+
+If you only want to adapt the profile please use a repository called `.org` and store this information there, we are linking to it in the organization readme.
+
+if you want to roll out a new integration or change the content of this repository, we recommend changing the default branch to a custom one.
+This way the `main` branch should still be synced and you are good to go.
+Be aware that in this case you as an Owner of the repository are responsible for keeping the content up to date and in compliance with Dynatrace OSPOs guidelines.
 
 ## Contents
 

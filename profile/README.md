@@ -1,7 +1,11 @@
-# Dynatrace Open Source
+# Dynatrace - modern cloud done right
 
-This organization contains Open Source projects maintained by Dynatrace.
-If not stated differently, these projects are not officially supported.
+This organization is part of the Dynatrace Open Source Initiative.
+Projects are maintained by Dynatrace but if not stated differently are not officially supported.
+
+For more information about Dynatrace please visit [dynatrace.com](https://www.dynatrace.com/).
+
+## Contact
 
 If you do have questions regarding any project within this organization, please open a GitHub issue for said project.
 
@@ -18,5 +22,5 @@ We are using `Apache License 2.0` as our default License, see <https://www.apach
 > **Note**
 > The following links represent our GitHub Organization defaults, it might be that certain projects do have their own versions of those files.
 
-- [Code of Conduct](https://github.com/dynatrace-oss/.github/blob/main/CODE_OF_CONDUCT.md)
-- [Security Policy](https://github.com/dynatrace-oss/.github/blob/main/SECURITY.md)
+- [Code of Conduct](.github/blob/main/CODE_OF_CONDUCT.md)
+- [Security Policy](.github/blob/main/SECURITY.md)
